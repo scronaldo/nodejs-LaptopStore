@@ -101,8 +101,8 @@ const server = http.createServer((req, res) => {
 
 
 
-// listen to our created server - src: http://127.0.0.1:1337/
-server.listen(1337, '127.0.0.1', () => {
+// listen to our created server - src: http://127.0.0.1:1337/ or in heroku i'ts app url
+server.listen(process.env.PORT || 5000, () => {
     console.log('Listening for requests now');
 });
 
