@@ -1,0 +1,14 @@
+{
+    "name": "Laptops",
+    "version": "0.0.1",
+    "description": "Comparison of Node.js template languages.",
+    "keywords": ["template", "benchmark"],
+    "author": "Amazing",
+    "dependencies": {
+    },
+    "main": "index",
+    "engines": {
+        "node": ">= 0.4.1"
+    },
+    "scripts": {
+    }
