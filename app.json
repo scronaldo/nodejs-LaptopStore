@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "nodejs-LaptopStore",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
