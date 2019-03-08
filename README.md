@@ -11,8 +11,7 @@ Used nodemon npm to omptimize nodeJS perfomance
 * copy this repo
 > git clone https://github.com/scronaldo/nodejs-LaptopStore.git
 
-* no need to do run npm install
-This is very basic project
+* no need to do run npm install. This is very basic project.
 
 * run nodejs in terminal
 > node
