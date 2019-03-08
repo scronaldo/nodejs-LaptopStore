@@ -9,7 +9,7 @@ Used nodemon npm to omptimize nodeJS perfomance
 
 ## how to run this project:
 * copy this repo
-> git clone https://github.com/scronaldo/itvdn-landing.git 
+> git clone https://github.com/scronaldo/nodejs-LaptopStore.git
 
 * no need to do run npm install
 This is very basic project
