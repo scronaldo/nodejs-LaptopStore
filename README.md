@@ -17,5 +17,8 @@ This is very basic project
 * run nodejs in terminal
 > node
 
+* run the nodejs file
+> node index.js
+
 * open http://127.0.0.1:1337/
 
