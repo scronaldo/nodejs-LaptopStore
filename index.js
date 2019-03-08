@@ -102,13 +102,9 @@ const server = http.createServer((req, res) => {
 
 
 // listen to our created server - src: http://127.0.0.1:1337/
-server.listen(1337, () => {
+server.listen(1337, '127.0.0.1', () => {
     console.log('Listening for requests now');
 });
-
-// server.listen(1337, '127.0.0.1', () => {
-//     console.log('Listening for requests now');
-// });
 
 
 
